@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+pharmabill.db
+pharmabill.db.bak-*
+invoices/
+backups/
+settings.json
+build/
+dist/
+*.spec
